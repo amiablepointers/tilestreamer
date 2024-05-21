@@ -16,4 +16,4 @@ For instructions on how to build the project from source, please refer to the [B
 For a guide on configuring Tilestreamer, please refer to the [CONFIGURATION](CONFIGURATION.md) file.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
